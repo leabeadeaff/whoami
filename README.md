@@ -21,7 +21,7 @@
 
 Мой codewars: https://www.codewars.com/users/leabeadeaff
 
-Пройденны курсы:
+Пройденный курс:
 
 - ZTM JavaScript The Advanced Concepts
 
