@@ -55,4 +55,5 @@ https://github.com/leabeadeaff/rtumirea#readme
 
 *Московский Политех*
 
-![image](https://user-images.githubusercontent.com/87875395/148650421-cce70923-4116-430a-97aa-faebfcbf90ef.png)
+Обучение нейронной сети:
+https://github.com/leabeadeaff/MPU#readme
