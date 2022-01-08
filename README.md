@@ -3,6 +3,8 @@
 //introduction
 
 Привет! Меня зовут Михаил. Мне 23 года. Я начинающий FrontEnd-разработчик.
+Мой телеграм: https://t.me/FUIWDWUTM
+Мой LinkedIn: https://www.linkedin.com/in/mikhail-lebedev-341026228
 
 //education info
 
