@@ -19,10 +19,15 @@
 
 //portfolio
 
-Примерно летом 2021 я открыл для себя мир  ̶д̶р̶у̶г̶и̶х̶ ̶м̶у̶ж̶ч̶и̶н̶  JS.
-А ещё, сайты по-типу HackerRank, codewars и leetcode.
-Купил пару курсов на Udemy (ZTM Advanced JS), активировал бесплатные лицы JetBrains для студентов, зарегал hh&LinkedIn и тут понеслось...
+Мой codewars: https://www.codewars.com/users/leabeadeaff
 
+Пройденны курсы:
+
+- ZTM JavaScript The Advanced Concepts
+
+*Банкомат*
+
+*Таймер*
 
 //NonJS-portfolio
 
