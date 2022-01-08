@@ -19,9 +19,7 @@
 
 //portfolio
 
-Мой codewars: https://www.codewars.com/users/leabeadeaff
-
-Пройденный курс:
+Udemy:
 
 - ZTM JavaScript The Advanced Concepts
 
@@ -29,6 +27,8 @@ Pet-проекты:
 - *Банкомат*
 
 - *Таймер*
+
+Мой codewars: https://www.codewars.com/users/leabeadeaff
 
 //NonJS-portfolio
 
