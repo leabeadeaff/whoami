@@ -6,6 +6,10 @@
 - Мой телеграм: https://t.me/FUIWDWUTM
 - Мой LinkedIn: https://www.linkedin.com/in/mikhail-lebedev-341026228
 
+//technologies & tools
+
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=F7DF1E) ![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html&logoColor=white&color=E34F26) ![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=CSS&logoColor=white&color=1572B6)
+
 //education
 
 - 2016-2020 Московский Политех, бакалавриат по направлению "Радиотехника".
