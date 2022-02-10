@@ -8,7 +8,8 @@
 
 //technologies & tools
 
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=F7DF1E) ![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html&logoColor=white&color=E34F26) ![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=CSS&logoColor=white&color=1572B6)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=F7DF1E) ![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html&logoColor=white&color=E34F26) ![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=CSS&logoColor=white&color=1572B6) ![](https://img.shields.io/badge/Tool-WebStorm-informational?style=flat&logo=WebStorm&logoColor=white&color=1572B6) ![](https://img.shields.io/badge/Tool-VirtualStudioCode-informational?style=flat&logo=VSCode&logoColor=white&color=1572B6)
+
 
 //education
 
@@ -22,6 +23,10 @@
 - 08.2020-Н.В. Работаю по специализации бакалавриата инженером-технологом (инженером-конструктором) на предприятии по производству кварцевых генераторов и резонаторов (АО "Пьезо").
 
 //portfolio
+
+htmlacademy:
+
+- https://htmlacademy.ru/profile/leabeadeaff
 
 Udemy:
 
