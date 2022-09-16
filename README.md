@@ -36,7 +36,8 @@ Udemy:
 
 Pet-проекты:
 - *Банкомат* https://leabeadeaff.github.io/
-
+Тестовое в озон
+https://leabeadeaff.github.io/
 
 Мой codewars: https://www.codewars.com/users/leabeadeaff
 
