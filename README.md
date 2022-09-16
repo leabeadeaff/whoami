@@ -35,7 +35,7 @@ Udemy:
 - ZTM JavaScript The Advanced Concepts
 
 Pet-проекты:
-- *Банкомат* https://leabeadeaff.github.io/
+- *Банкомат* https://github.com/leabeadeaff/atm
 Тестовое в озон
 https://leabeadeaff.github.io/
 
