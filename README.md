@@ -39,6 +39,7 @@ Pet-проекты:
 
 - Тестовое в озон
 https://leabeadeaff.github.io/
+(почему отказали и само ТЗ тут https://github.com/leabeadeaff/leabeadeaff/blob/main/README.md)
 
 Мой codewars: https://www.codewars.com/users/leabeadeaff
 
