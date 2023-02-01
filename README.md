@@ -2,7 +2,7 @@
 
 //introduction
 
-Привет! Меня зовут Михаил. Мне 23 года. Я начинающий FrontEnd-разработчик.
+Привет! Меня зовут Михаил. Мне 24 года. Я начинающий FrontEnd-разработчик.
 - Мой телеграм: https://t.me/FUIWDWUTM
 - Мой LinkedIn: https://www.linkedin.com/in/mikhail-lebedev-341026228
 
@@ -41,6 +41,9 @@ Pet-проекты:
 https://leabeadeaff.github.io/
 
 Мой codewars: https://www.codewars.com/users/leabeadeaff
+
+Где я тусовался с айтишниками:
+Yandex&&Young (день стажёра)
 
 //NonJS-portfolio
 
