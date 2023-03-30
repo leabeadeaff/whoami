@@ -2,13 +2,13 @@
 
 //introduction
 
-Привет! Меня зовут Михаил. Мне 24 года. Я начинающий FrontEnd-разработчик.
+Привет! Меня зовут Михаил. Мне 24 года. Я начинающий FrontEnd-разработчик. (или бекенд python/GO, исходя из требований рынка)
 - Мой телеграм: https://t.me/FUIWDWUTM
 - Мой LinkedIn: https://www.linkedin.com/in/mikhail-lebedev-341026228
 
 //technologies & tools
 
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=F7DF1E) ![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html&logoColor=white&color=E34F26) ![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=CSS&logoColor=white&color=1572B6) ![](https://img.shields.io/badge/Tool-WebStorm-informational?style=flat&logo=WebStorm&logoColor=white&color=1572B6) ![](https://img.shields.io/badge/Tool-VirtualStudioCode-informational?style=flat&logo=VSCode&logoColor=white&color=1572B6)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=F7DF1E) ![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html&logoColor=white&color=E34F26) ![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=CSS&logoColor=white&color=1572B6) ![](https://img.shields.io/badge/Tool-WebStorm-informational?style=flat&logo=WebStorm&logoColor=white&color=1572B6) ![](https://img.shields.io/badge/Tool-VirtualStudioCode-informational?style=flat&logo=VSCode&logoColor=white&color=1572B6) ![](https://img.shields.io/badge/Code-GoLang-informational?style=flat&logo=golang&logoColor=white&color=F7DF1E) ![](https://img.shields.io/badge/Code-sql-informational?style=flat&logo=golang&logoColor=white&color=F7DF1E)
 
 
 //education
@@ -47,6 +47,11 @@ https://leabeadeaff.github.io/
 Yandex&&Young (день стажёра)
 
 //NonJS-portfolio
+
+Golang:
+https://github.com/leabeadeaff/GOLANG_stepik/tree/main/leabeadeaff's%20stepik
+
+Python + PyQt для измерителя частот (просто адаптировал чужой проект под свои задачи (интерфейс + автопересчёт частоты каждую сек) https://github.com/leabeadeaff/amcp-master)
 
 *Minecraft*
 
