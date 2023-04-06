@@ -7,6 +7,7 @@
 - Мой LinkedIn: https://www.linkedin.com/in/mikhail-lebedev-341026228
 
 // о хобби и софта сикллс
+
 О увлечениях по мимо FrontEnd: в свободное время занимаюсь calisthenics, угараю по Dogecoin и StarShip, пишу ботов для Telegram. (здесь их не буит)
 
 Общие черты:
