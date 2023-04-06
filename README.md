@@ -8,7 +8,7 @@
 
 // о хобби и софта сикллс
 
-О увлечениях по мимо FrontEnd: в свободное время занимаюсь calisthenics, угараю по Dogecoin и StarShip, пишу ботов для Telegram. (здесь их не буит)
+О увлечениях по мимо FrontEnd: в свободное время занимаюсь calisthenics, угараю по Dogecoin и StarShip, пишу ботов для Telegram.
 
 Общие черты:
 Характер нордический, шутка. Усидчивый, A1 Deutsch, B1 English, Google Calendar etc..
