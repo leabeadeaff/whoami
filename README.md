@@ -58,6 +58,7 @@ https://leabeadeaff.github.io/
 
 Где я тусовался с айтишниками:
 Yandex&&Young (день стажёра)
+
 Решение тестового тут: https://github.com/leabeadeaff/yandex/blob/main/yandex_explorers.js
 
 //NonJS-portfolio
