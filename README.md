@@ -39,14 +39,6 @@
 
 //portfolio
 
-htmlacademy:
-
-- https://htmlacademy.ru/profile/leabeadeaff
-
-Udemy:
-
-- ZTM JavaScript The Advanced Concepts
-
 Pet-проекты:
 - Telegram Bot на Node.js позволяющий отслеживать новые публикации на YouTube https://t.me/TubeNotifyBot
 
@@ -56,13 +48,17 @@ https://leabeadeaff.github.io/
 
 - *Банкомат* https://github.com/leabeadeaff/atm
 
-Мой codewars: https://www.codewars.com/users/leabeadeaff
-
 Где я тусовался с айтишниками:
 Yandex&&Young (день стажёра 2022)
 Yandex&&Young (день стажёра 2023)
 
-Решение тестового тут: https://github.com/leabeadeaff/yandex/blob/main/yandex_explorers.js
+Решение тестового на тусу тут: https://github.com/leabeadeaff/yandex/blob/main/yandex_explorers.js
+
+Мой codewars: https://www.codewars.com/users/leabeadeaff
+
+htmlacademy: https://htmlacademy.ru/profile/leabeadeaff
+
+Udemy: ZTM JavaScript The Advanced Concepts
 
 //NonJS-portfolio
 
