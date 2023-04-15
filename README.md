@@ -1,7 +1,9 @@
 # whoami
 
 //introduction
+
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=F7DF1E) ![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html&logoColor=white&color=E34F26) ![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=CSS&logoColor=white&color=1572B6) ![](https://img.shields.io/badge/Tool-WebStorm-informational?style=flat&logo=WebStorm&logoColor=white&color=1572B6) ![](https://img.shields.io/badge/Tool-VirtualStudioCode-informational?style=flat&logo=VSCode&logoColor=white&color=1572B6) ![](https://img.shields.io/badge/Code-GoLang-informational?style=flat&logo=golang&logoColor=white&color=F7DF1E) ![](https://img.shields.io/badge/Code-sql-informational?style=flat&logo=golang&logoColor=white&color=F7DF1E)
+
 Привет! Меня зовут Михаил. Мне 24 года. Я начинающий FrontEnd-разработчик. (или бекенд python/GO, исходя из требований рынка)
 - Мой телеграм: https://t.me/FUIWDWUTM
 - Мой LinkedIn: https://www.linkedin.com/in/mikhail-lebedev-341026228
