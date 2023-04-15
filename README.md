@@ -20,7 +20,7 @@ https://leabeadeaff.github.io/
 - *Банкомат* https://github.com/leabeadeaff/atm
 
 Где я тусовался с айтишниками:
-Yandex&&Young (день стажёра 2022)
+Yandex&&Young (день стажёра 2022), 
 Yandex&&Young (день стажёра 2023)
 
 Решение тестового на тусу тут: https://github.com/leabeadeaff/yandex/blob/main/yandex_explorers.js
@@ -36,7 +36,7 @@ Udemy: ZTM JavaScript The Advanced Concepts
 О увлечениях по мимо FrontEnd: в свободное время занимаюсь calisthenics, угараю по Dogecoin и StarShip, пишу ботов для Telegram.
 
 Общие черты:
-Характер нордический, шутка. Усидчивый, A1 Deutsch, B1 English, Google Calendar etc..
+Характер нордический, шутка. Усидчивый, A1 Deutsch, B2 English, Google Calendar etc..
 
 //education
 
