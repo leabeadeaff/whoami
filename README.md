@@ -8,6 +8,29 @@
 - Мой телеграм: https://t.me/FUIWDWUTM
 - Мой LinkedIn: https://www.linkedin.com/in/mikhail-lebedev-341026228
 
+//portfolio
+
+Pet-проекты:
+- Telegram Bot на Node.js позволяющий отслеживать новые публикации на YouTube https://t.me/TubeNotifyBot
+
+- Тестовое в озон
+https://leabeadeaff.github.io/
+(почему отказали и само ТЗ тут https://github.com/leabeadeaff/leabeadeaff.github.io#readme)
+
+- *Банкомат* https://github.com/leabeadeaff/atm
+
+Где я тусовался с айтишниками:
+Yandex&&Young (день стажёра 2022)
+Yandex&&Young (день стажёра 2023)
+
+Решение тестового на тусу тут: https://github.com/leabeadeaff/yandex/blob/main/yandex_explorers.js
+
+Мой codewars: https://www.codewars.com/users/leabeadeaff
+
+htmlacademy: https://htmlacademy.ru/profile/leabeadeaff
+
+Udemy: ZTM JavaScript The Advanced Concepts
+
 // о хобби и софта сикллс
 
 О увлечениях по мимо FrontEnd: в свободное время занимаюсь calisthenics, угараю по Dogecoin и StarShip, пишу ботов для Telegram.
@@ -33,29 +56,6 @@
 //work
 
 - 08.2020-Н.В. Работаю по специализации бакалавриата инженером-технологом (инженером-конструктором) на предприятии по производству кварцевых генераторов и резонаторов (АО "Пьезо").
-
-//portfolio
-
-Pet-проекты:
-- Telegram Bot на Node.js позволяющий отслеживать новые публикации на YouTube https://t.me/TubeNotifyBot
-
-- Тестовое в озон
-https://leabeadeaff.github.io/
-(почему отказали и само ТЗ тут https://github.com/leabeadeaff/leabeadeaff.github.io#readme)
-
-- *Банкомат* https://github.com/leabeadeaff/atm
-
-Где я тусовался с айтишниками:
-Yandex&&Young (день стажёра 2022)
-Yandex&&Young (день стажёра 2023)
-
-Решение тестового на тусу тут: https://github.com/leabeadeaff/yandex/blob/main/yandex_explorers.js
-
-Мой codewars: https://www.codewars.com/users/leabeadeaff
-
-htmlacademy: https://htmlacademy.ru/profile/leabeadeaff
-
-Udemy: ZTM JavaScript The Advanced Concepts
 
 //NonJS-portfolio
 
