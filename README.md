@@ -1,7 +1,7 @@
 # whoami
 
 //introduction
-
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=F7DF1E) ![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html&logoColor=white&color=E34F26) ![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=CSS&logoColor=white&color=1572B6) ![](https://img.shields.io/badge/Tool-WebStorm-informational?style=flat&logo=WebStorm&logoColor=white&color=1572B6) ![](https://img.shields.io/badge/Tool-VirtualStudioCode-informational?style=flat&logo=VSCode&logoColor=white&color=1572B6) ![](https://img.shields.io/badge/Code-GoLang-informational?style=flat&logo=golang&logoColor=white&color=F7DF1E) ![](https://img.shields.io/badge/Code-sql-informational?style=flat&logo=golang&logoColor=white&color=F7DF1E)
 Привет! Меня зовут Михаил. Мне 24 года. Я начинающий FrontEnd-разработчик. (или бекенд python/GO, исходя из требований рынка)
 - Мой телеграм: https://t.me/FUIWDWUTM
 - Мой LinkedIn: https://www.linkedin.com/in/mikhail-lebedev-341026228
@@ -18,11 +18,6 @@
 Попадаю под законопроект об отсрочке (окончание вуза 2022 год, лето)
 "Действие правил получения отсрочки распространяется и на специалистов со стажем менее 11 месяцев, но при условии, что они устроились на работу в аккредитованную компанию в течение года после окончания обучения в вузе или научной организации."
 Также, имею 95% вероятность получить категорию В в ближайший год, активно прохожу дообследования от военкомата, не уклонист.
-
-//technologies & tools
-
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=F7DF1E) ![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html&logoColor=white&color=E34F26) ![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=CSS&logoColor=white&color=1572B6) ![](https://img.shields.io/badge/Tool-WebStorm-informational?style=flat&logo=WebStorm&logoColor=white&color=1572B6) ![](https://img.shields.io/badge/Tool-VirtualStudioCode-informational?style=flat&logo=VSCode&logoColor=white&color=1572B6) ![](https://img.shields.io/badge/Code-GoLang-informational?style=flat&logo=golang&logoColor=white&color=F7DF1E) ![](https://img.shields.io/badge/Code-sql-informational?style=flat&logo=golang&logoColor=white&color=F7DF1E)
-
 
 //education
 
