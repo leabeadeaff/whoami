@@ -48,16 +48,19 @@ Udemy:
 - ZTM JavaScript The Advanced Concepts
 
 Pet-проекты:
-- *Банкомат* https://github.com/leabeadeaff/atm
+- Telegram Bot на Node.js позволяющий отслеживать новые публикации на YouTube https://t.me/TubeNotifyBot
 
 - Тестовое в озон
 https://leabeadeaff.github.io/
 (почему отказали и само ТЗ тут https://github.com/leabeadeaff/leabeadeaff.github.io#readme)
 
+- *Банкомат* https://github.com/leabeadeaff/atm
+
 Мой codewars: https://www.codewars.com/users/leabeadeaff
 
 Где я тусовался с айтишниками:
-Yandex&&Young (день стажёра)
+Yandex&&Young (день стажёра 2022)
+Yandex&&Young (день стажёра 2023)
 
 Решение тестового тут: https://github.com/leabeadeaff/yandex/blob/main/yandex_explorers.js
 
