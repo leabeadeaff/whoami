@@ -13,9 +13,12 @@
 Pet-проекты:
 - Telegram Bot на Node.js позволяющий отслеживать новые публикации на YouTube https://t.me/TubeNotifyBot
 
-- Тестовое в озон
+- Решение задания от Ozon [Тестовое задание]
 https://leabeadeaff.github.io/
 (почему отказали и само ТЗ тут https://github.com/leabeadeaff/leabeadeaff.github.io#readme)
+
+- Создание игры Roguelike [Тестовое задание]
+https://github.com/leabeadeaff/rogueGame
 
 - *Банкомат* https://github.com/leabeadeaff/atm
 
