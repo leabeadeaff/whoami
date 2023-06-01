@@ -17,7 +17,7 @@ Pet-проекты:
 https://leabeadeaff.github.io/
 (почему отказали и само ТЗ тут https://github.com/leabeadeaff/leabeadeaff.github.io#readme)
 
-- Создание игры Roguelike (JavaScript ES5) [Тестовое задание]
+- Создание 2D игры Roguelike (JavaScript ES5) [Тестовое задание]
 https://github.com/leabeadeaff/rogueGame
 
 - *Банкомат* https://github.com/leabeadeaff/atm
