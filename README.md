@@ -21,7 +21,7 @@ https://github.com/leabeadeaff/GOLANG_stepik/tree/main/leabeadeaff's%20stepik
 
 https://www.codewars.com/users/leabeadeaff
 
-- капание в песочнице
+- копание в песочнице
 
 //education
 
