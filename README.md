@@ -12,11 +12,16 @@
 - Мой LinkedIn: https://www.linkedin.com/in/mikhail-lebedev-341026228
 
 🇮🇳 Golang experience 🇮🇳 =>
-базовый курс по голенг на степике
+
+- базовый курс по голенг на степике
+
 https://github.com/leabeadeaff/GOLANG_stepik/tree/main/leabeadeaff's%20stepik
-решение задачек на кодварсе 
+
+- решение задачек на кодварсе
+
 https://www.codewars.com/users/leabeadeaff
-капание в песочнице
+
+- капание в песочнице
 
 //education
 
