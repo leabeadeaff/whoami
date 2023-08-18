@@ -34,7 +34,7 @@ https://www.codewars.com/users/leabeadeaff
 - 2022 РТУ МИРЭА, программа профессиональной переподготовки "Менеджмент". Квалификация "Менеджер по информационным технологиям".
 _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
 
-(не актуально для ozon route Golang junior, i think. Там короче JS хрень)
+
 //portfolio 
 
 Pet-проекты:
@@ -55,7 +55,6 @@ Yandex&&Young (день стажёра 2023)
 
 Решение тестового на тусу тут: https://github.com/leabeadeaff/yandex/blob/main/yandex_explorers.js
 
-Мой codewars: https://www.codewars.com/users/leabeadeaff
 
 htmlacademy: https://htmlacademy.ru/profile/leabeadeaff
 
