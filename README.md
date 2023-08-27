@@ -40,10 +40,6 @@ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
 Pet-проекты:
 - Telegram Bot на Node.js позволяющий отслеживать новые публикации на YouTube https://t.me/TubeNotifyBot
 
-- Решение задания от Ozon (JavaScript) [Тестовое задание]
-https://leabeadeaff.github.io/
-(почему отказали и само ТЗ тут https://github.com/leabeadeaff/leabeadeaff.github.io#readme)
-
 - Создание 2D игры Roguelike (JavaScript ES5) [Тестовое задание]
 https://github.com/leabeadeaff/rogueGame
 
