@@ -45,6 +45,10 @@ https://github.com/leabeadeaff/rogueGame
 
 - *Банкомат* https://github.com/leabeadeaff/atm
 
+- Решение задания от Ozon (JavaScript) [Тестовое задание на стажировку]
+https://leabeadeaff.github.io/
+(почему отказали и само ТЗ тут https://github.com/leabeadeaff/leabeadeaff.github.io#readme)
+
 Где я тусовался с айтишниками:
 Yandex&&Young (день стажёра 2022), 
 Yandex&&Young (день стажёра 2023)
