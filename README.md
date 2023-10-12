@@ -36,6 +36,7 @@ Udemy: ZTM JavaScript The Advanced Concepts
 
 
 
+
 //education
 
 - 2016-2020 Московский Политех, бакалавриат по направлению "Радиотехника".
