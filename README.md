@@ -7,7 +7,7 @@
 <img src="https://www.codewars.com/users/leabeadeaff/badges/large">
 
 
-Привет! Меня зовут Михаил. Мне 24 года. 
+Привет! Меня зовут Михаил. Мне 25 года. 
 - Мой телеграм: https://t.me/FUIWDWUTM
 - Мой LinkedIn: https://www.linkedin.com/in/mikhail-lebedev-341026228
 
@@ -21,7 +21,6 @@ https://github.com/leabeadeaff/rogueGame
 
 - Решение задания от Ozon (JavaScript) [Тестовое задание на стажировку]
 https://leabeadeaff.github.io/
-(почему отказали и само ТЗ тут https://github.com/leabeadeaff/leabeadeaff.github.io#readme)
 
 Где я тусовался с айтишниками:
 Yandex&&Young (день стажёра 2022), 
