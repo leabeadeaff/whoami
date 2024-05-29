@@ -7,7 +7,7 @@
 <img src="https://www.codewars.com/users/leabeadeaff/badges/large">
 
 
-Привет! Меня зовут Михаил. Мне 25 года. 
+Привет! Меня зовут Михаил. Мне 25 лет. 
 - Мой телеграм: https://t.me/FUIWDWUTM
 - Мой LinkedIn: https://www.linkedin.com/in/mikhail-lebedev-341026228
 
