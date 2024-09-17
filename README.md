@@ -19,8 +19,6 @@ Pet-проекты:
 - Создание 2D игры Roguelike (JavaScript ES5) [Тестовое задание]
 https://github.com/leabeadeaff/rogueGame
 
-- Решение задания от Ozon (JavaScript) [Тестовое задание на стажировку]
-https://leabeadeaff.github.io/
 
 Где я тусовался с айтишниками:
 Yandex&&Young (день стажёра 2022), 
